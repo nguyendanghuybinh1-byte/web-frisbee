@@ -14,7 +14,7 @@ body {
 }
 
 #header {
-    background: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url('image/anh1.jpg') center top / cover;
+    background: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url('anh1.jpg') center top / cover;
     height: 360px;
     display: flex;
     flex-direction: column;
